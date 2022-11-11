@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Ammon . 
+
+## I am a software engineer who is passionate about creating products that users love. Some technologies I enjoy working with include ReactJS and PostgreSQL. I recently completed a 12-week intensive full-stack software engineering bootcamp with General Assembly. Now I'm working on some passion projects while finding the right job to continue developing my skills!
+
+## Find me on [Linkedin!](https://www.linkedin.com/in/ammono/) 
 
 <!--
 **Shazammon/Shazammon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
